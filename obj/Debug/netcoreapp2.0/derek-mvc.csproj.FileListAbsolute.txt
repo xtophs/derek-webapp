@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\derek-mvc\bin\Debug\netcoreapp2.0\derek-mvc.deps.json
+C:\Users\user\source\repos\derek-mvc\bin\Debug\netcoreapp2.0\derek-mvc.runtimeconfig.json
+C:\Users\user\source\repos\derek-mvc\bin\Debug\netcoreapp2.0\derek-mvc.runtimeconfig.dev.json
+C:\Users\user\source\repos\derek-mvc\bin\Debug\netcoreapp2.0\derek-mvc.dll
+C:\Users\user\source\repos\derek-mvc\bin\Debug\netcoreapp2.0\derek-mvc.pdb
+C:\Users\user\source\repos\derek-mvc\obj\Debug\netcoreapp2.0\derek-mvc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\derek-mvc\obj\Debug\netcoreapp2.0\derek-mvc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\derek-mvc\obj\Debug\netcoreapp2.0\derek-mvc.AssemblyInfo.cs
+C:\Users\user\source\repos\derek-mvc\obj\Debug\netcoreapp2.0\derek-mvc.dll
+C:\Users\user\source\repos\derek-mvc\obj\Debug\netcoreapp2.0\derek-mvc.pdb
